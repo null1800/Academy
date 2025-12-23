@@ -43,4 +43,3 @@ golden_stars_academy
 ├── package.json
 └── README.md
 ```
-
